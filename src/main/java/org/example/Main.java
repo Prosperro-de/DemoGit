@@ -5,6 +5,7 @@ public class Main {
         System.out.println("New feature development...");
         System.out.println("Release new feature");
         login();
+        System.out.println("Add some code");
     }
 
     public static void login() {
