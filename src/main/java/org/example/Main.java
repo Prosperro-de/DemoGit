@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Release new feature");
         login();
         System.out.println("Add some code");
+        System.out.println("Change from remote");
     }
 
     public static void login() {
