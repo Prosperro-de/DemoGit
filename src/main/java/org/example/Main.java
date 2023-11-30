@@ -11,7 +11,7 @@ public class Main {
     }
 
     public static void login() {
-        String username = "";
+        String username = "wqe";
         String password = "";
 
         System.out.println("username = " + username);
